@@ -3,4 +3,4 @@ org.antczak.health
 
 App thats checks other apps
 
-[![Build Status](http://api.krr.mydevil.net/jenkins/buildStatus/icon?job=org.antczak.health)](http://api.krr.mydevil.net/jenkins/job/org.antczak.health/)
+[![Build Status](http://jee.antczak.org/jenkins/buildStatus/icon?job=org.antczak.backend)](http://jee.antczak.org/jenkins/job/org.antczak.backend/)
